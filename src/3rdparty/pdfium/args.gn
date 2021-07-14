@@ -1,0 +1,4 @@
+# Build arguments go here.
+# See "gn args <out_dir> --list" for available build arguments.
+
+gn args out/Release64
